@@ -1,11 +1,15 @@
-# Whisper-to-Normal Speech Conversion using Generative Adversarial Networks
+# MSPEC-NET : MULTI-DOMAIN SPEECH CONVERSION NETWORK
 ____
 
 ```diff
 - Note: Demo website will be soon available.
 ```
+In this work, we have consedered 3 types of speech domains: NAM(Non-audible murmur) speech, whispered speech and normal speech. 
 
-### Why whisper-to-normal speech conversion?
+### Why NAM-to-normal speech conversion?
+Though speech is the common style of communication. Sometimes due to defect in larynx, vocal folds, etc. people are not able to speak in normal way. This can hamper one’s life severely. Moreover, during private communication on mobile phone, or the conversation in hospital, library, etc. people would not like to speak in normal speech. Therefore, silent speech interfaces have started to attract attention for new speech communication styles. One of the best methods is to focus on body conducted speech, here we referred it as Non-Audible Murmur (NAM) speech. 
+
+
 Interesting  applications  of  the  whis-pered speech communications are, private conversation in pub-lic using cell phone, conversation in quiet environments like alibrary, a hospital, a meeting room, etc. Furthermore, thepatients that are suffering from the vocal fold paralysis ,vocal nodule etc. may not be able to produce normalspeech  due  to  the  partial  or  complete  absence  of  vocal  foldvibrations (i.e., voicing). Losing the natural way of producingthe  speech  will  affect  one’s  life  extremely,  since  speech  isthe most natural and powerful form of communication amonghumans.  Hence,  the  aim  of  the  present  work  is  to  convertwhispered speech into normal speech using Machine Learning(ML)-based  approaches  in  order  to  improve  the  quality  ofcommunication.
 
 For more details please refer mentioned research papers.
