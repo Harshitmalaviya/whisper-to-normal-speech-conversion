@@ -7,19 +7,13 @@ ____
 In this work, we have consedered 3 types of speech domains: NAM(Non-audible murmur) speech, whispered speech and normal speech. 
 
 ### Why NAM-to-normal speech conversion?
-Though speech is the common style of communication. Sometimes due to defect in larynx, vocal folds, etc. people are not able to speak in normal way. This can hamper one’s life severely. Moreover, during private communication on mobile phone, or the conversation in hospital, library, etc. people would not like to speak in normal speech. Therefore, silent speech interfaces have started to attract attention for new speech communication styles. One of the best methods is to focus on body conducted speech, here we referred it as Non-Audible Murmur (NAM) speech. 
+Though speech is the common style of communication. Sometimes due to defect in larynx, vocal folds, etc. people are not able to speak in normal way. Moreover, during private communication on mobile phone, or the conversation in hospital, library, etc. people would not like to speak in normal speech. Therefore, silent speech interfaces have started to attract attention for new speech communication styles. One of the best methods is to focus on body conducted speech, here we referred it as Non-Audible Murmur (NAM) speech. Hence, the aim of this work is to convert NAM speech into normal speech using Deep learning(DL)-based approaches in order to improve the quality of NAM speech.
 
-
-Interesting  applications  of  the  whis-pered speech communications are, private conversation in pub-lic using cell phone, conversation in quiet environments like alibrary, a hospital, a meeting room, etc. Furthermore, thepatients that are suffering from the vocal fold paralysis ,vocal nodule etc. may not be able to produce normalspeech  due  to  the  partial  or  complete  absence  of  vocal  foldvibrations (i.e., voicing). Losing the natural way of producingthe  speech  will  affect  one’s  life  extremely,  since  speech  isthe most natural and powerful form of communication amonghumans.  Hence,  the  aim  of  the  present  work  is  to  convertwhispered speech into normal speech using Machine Learning(ML)-based  approaches  in  order  to  improve  the  quality  ofcommunication.
-
-For more details please refer mentioned research papers.
+For more details, please refer mentioned research papers at the end.
 
 ### Proposed Methods:
-- MMSE-GAN
-- DiscGAN
-- CycleGAN
-- CNN-GAN
-- Inception-GAN
+- DiscoGAN (Discovery Generative adversarial network)
+- MSpec-Net (Multi-domain speech conversion network)
 
 
 ## Prerequisites:
